@@ -1,0 +1,27 @@
+{
+    "income_categories": [
+        "pocket_money",
+        "Other",
+        "Salary"
+    ],
+    "expense_categories": [
+        "Petrol",
+        "Food",
+        "Medical",
+        "Gifts",
+        "funhobbies",
+        "stationary",
+        "Entertainment",
+        "Deposit to zomato",
+        "phone recharge",
+        "SIP"
+    ],
+    "synonyms": {
+        "Other": "others",
+        "idk": "Others",
+        "food": "Food",
+        "gifts": "Gift",
+        "petrol/gas": "Petrol",
+        "recharge": "phone recharge"
+    }
+}
